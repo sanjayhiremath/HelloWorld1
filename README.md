@@ -1,1 +1,1 @@
-# HelloWorld
+This program takes a String as a input from user the code is written in a such a way that the reverse string is stored in same character string.if you find error in the code please let me know.website is provided in Bio you can take a email ID from there and mail the content to me
